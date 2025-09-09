@@ -1,13 +1,13 @@
 #page-container { width: 760px; margin: auto; background: red;
 }
 #header {
-background: blue;
+background: rgb(246, 52, 84);
 height: 150px;
 }
 #content {
-background: green;
+background: rgb(231, 90, 114);
 }
 #footer {
-background: orange;
+background: pink;
 height: 66px;
 }
