@@ -1,13 +1,55 @@
-#page-container { width: 760px; margin: auto; background: red;
+#page-container { width: 1600px; margin: auto; background: rgb(244, 230, 122); text-align: left;
 }
 #header {
-background: rgb(246, 52, 84);
-height: 150px;
+background: #ffffff;
+height: 100px;
+text-align: left;
 }
 #content {
-background: rgb(231, 90, 114);
+background: rgb(255, 255, 255);
+text-align: left;
 }
 #footer {
-background: pink;
-height: 66px;
+background: rgb(255, 242, 191);
+height: 50px;
 }
+#main-nav {
+height: 20px;
+text-align:left;
+font-family: Tahoma, Arial, Helvetica, Sans-serif;
+text-align: center;
+}
+#main-nav a{
+color: #fffbfb;
+text-decoration: rgb(255, 255, 158);
+text-align: right;
+}
+#main-nav a:hover{color: #db6d16;}
+#footer {
+height: 70px;
+font-family: Tahoma, Arial, Helvetica, Sans-serif;
+font-size: 15px;
+color: #c9c9c9;
+border-top: 1px solid #efefef;
+padding: 13px 25px;
+line-height: 18px;
+text-align: right;
+}
+#footer a {
+color: #000000;
+text-decoration: none;
+text-align: right;
+}
+#footer a:hover {
+color: #db6d16;
+text-align: right;
+}
+#footer #altnav {
+width: 350px;
+float: right;
+text-align: right;
+}
+#content {
+font-family:Tahoma, arial, helvetica, sans-serif;
+font-size:15px;
+padding: 5px 5px;}
